@@ -1,7 +1,7 @@
 LightShow
 =========
 
-This Arduino sketch can be used to control LEDs over Bluetooth LE.  It is designed to be used with the [LightShow](https://itunes.apple.com/us/app/apple-store/id955092313?pt=117264536&ct=github&mt=8) iOS app.
+This Arduino sketch can be used to control LEDs over Bluetooth LE.  It is designed to be used with the [LightShow](https://itunes.apple.com/us/app/light-show-arduino-color-controller/id955092313?mt=8&pt=117264536&at=1000lc6i&ct=github) iOS app.
 
 
 Analog RGB LED strips
@@ -20,11 +20,9 @@ Place the Adafruit_BLE_UART folder from this repository inside your Arduino libr
 
 Upload the LightShowArduino.ino sketch to your Arduino.
 
-Install the [LightShow](https://itunes.apple.com/us/app/apple-store/id955092313?pt=117264536&ct=github&mt=8) app onto your iOS device.
+Install the [LightShow](https://itunes.apple.com/us/app/light-show-arduino-color-controller/id955092313?mt=8&pt=117264536&at=1000lc6i&ct=github) app onto your iOS device.
 
 
 
 -----------
-Download my newest app [White Noise and Deep Sleep Sounds](https://itunes.apple.com/app/deep-sleep-sounds-free-white/id1083248251?mt=8&at=1000lc6i&pt=117264536&ct=lightShow) from the App Store and enjoy better sleep.  
-
-Check out my blog at [kitefaster.com](http://kitefaster.com/?utm_source=github&utm_medium=link&utm_campaign=lightShow)
+Download my newest app [White Noise and Deep Sleep Sounds](https://itunes.apple.com/app/deep-sleep-sounds-free-white/id1083248251?mt=8&at=1000lc6i&pt=117264536&ct=lightShow) from the App Store and enjoy better sleep.
